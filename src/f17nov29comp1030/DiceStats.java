@@ -35,6 +35,7 @@ public class DiceStats {
             System.out.printf("%6d ", sumOfDice[i]);
         }
         System.out.println();
+        //ha
         
         //display the % of each number
         for (int i=2; i<sumOfDice.length; i++)
