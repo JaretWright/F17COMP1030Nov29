@@ -36,6 +36,7 @@ public class DiceStats {
         }
         System.out.println();
         //ha
+        //question 2
         
         //display the % of each number
         for (int i=2; i<sumOfDice.length; i++)
